@@ -1,5 +1,5 @@
 # Time Series Analysis using ARIMA model
-## Source:https://data.world/data-society/global-climate-change-data
+## Data Source:https://data.world/data-society/global-climate-change-data
 #### 1) Data pre-processing
 #### 2) Checking whether Global Warming exists
 #### 3) Checking whether data is stationary, ADF test
